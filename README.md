@@ -15,5 +15,5 @@ La inteligencia artificial es capas de reconocer, diferenciar y clasificar difer
       -Franky
       -Jinbe
       -Law
-##Link de mi modelo de IA :metal:
+## Link de mi modelo de IA :metal:
 Mi modelo: https://teachablemachine.withgoogle.com/models/wBrZ7Tq9P/
